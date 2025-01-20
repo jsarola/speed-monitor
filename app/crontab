@@ -1,0 +1,2 @@
+*/10 * * * * python /speed_monitor/main.py measure >> /logs/cron.log
+
